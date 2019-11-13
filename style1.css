@@ -1,0 +1,17 @@
+body
+{
+  background-image: url('fp.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p{
+  font-family: 'Yeon Sung', cursive;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+h1{
+font-family: 'Playfsair Display', serif;
+}
+ul:li{
+  font-family: 'Playfair Display', serif;
+}
